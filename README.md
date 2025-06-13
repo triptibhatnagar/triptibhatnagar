@@ -5,6 +5,8 @@
 -  Ask me about Java, DSA
 -  How to reach me: bhatnagartripti2727@gmail.com
 
+![Profile views](https://komarev.com/ghpvc/?username=triptibhatnagar&color=blue)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=triptibhatnagar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
