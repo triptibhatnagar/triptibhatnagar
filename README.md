@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I'm Tripti 😊
 
 -  I’m currently working on Web Development
 -  I’m currently learning MERN
